@@ -85,7 +85,7 @@ time.sleep(2)
 print(" ")
 
 #Question 5
-print("Q1. What is the longest river in the world?")
+print("Q5. What is the longest river in the world?")
 print("a. Amazon  b. Congo  c. Nile  d. Irtysh")
 time.sleep(1)
 answer = input("Please make your choice : ")
